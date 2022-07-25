@@ -1,12 +1,20 @@
 ### Hola Soy David Flores 👋
 ### Bienvenido a mi perfil
-Soy un estudiante de la carrera de Software residente en Ecuador, me apasiona  la tecnologia y las posibilidades que se presentan en el desarrollo de software, pero lo que mas me gusta son los videojuegos, por lo que mi mayor aspiracion es trabajar en una empresa desarrolladora de videojuegos. 
+Soy un estudiante de la carrera de Software residente en Ecuador, me apasiona  la tecnologia y las posibilidades que se presentan en el desarrollo de software, pero lo que mas me gusta son los videojuegos por lo que mi mayor aspiracion es trabajar en una empresa de desarrollo. 
 
 #### Estudios
-Estudie en la Unidad Educativa "Pedro Fermin Cevallos" y atualmente estoy en cuarto semestre de la carrera de software en la "Universidad Técnica de Ambato"
+Estudie en la Unidad Educativa "Pedro Fermin Cevallos" y atualmente estoy en cuarto semestre de la carrera de software en la "Universidad Técnica de Ambato".
 #### Experiencia
-No tengo experiencia laboral, pero he realizado varios proyecto de manera individual y colaborativa con la ayuda de varias herramientas que facilitan el desarrollo de software
+No tengo experiencia laboral, pero he realizado varios proyectos de manera individual y colaborativa con la ayuda de varias herramientas que facilitan el desarrollo de software.
 #### Proyectos
+[Gestion Hospital](https://github.com/davidf110102/ProyectoFinal)
+
+Es un sistema en el cual se puede ingresar medicos y pacientes, a los que se les asigna una cama en determinada habitacion y posteriormente pueden ser dados de alta quedando libre la  cama que estaba utilizando.
+
+
+[Sistema Registros](https://github.com/Eduardlink/SistemaRegistros)
+
+Sistema de control de asistencia que permite registrar el ingreso y salida de docentes, ademas de la generacion de reportes y procesos CRUD. 
 #### Tecnologias utilizadas:
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
