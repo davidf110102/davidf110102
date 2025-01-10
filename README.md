@@ -1,25 +1,26 @@
-### Hola Soy David Flores 👋
-### Bienvenido a mi perfil
+# 👋 Hola, Soy **David Flores**
+
+## ✨ Bienvenido a mi perfil
 Soy desarrollador de software 👨‍💻 y estudiante de Ingeniería en Software en la Universidad Técnica de Ambato 🎓. Me apasiona crear soluciones tecnológicas eficientes y funcionales, combinando mis conocimientos técnicos con mi amor por la innovación. 🚀
 
 Mi camino en el desarrollo de software comenzó cuando ingresé a la universidad, donde inicié con programación en Java ☕. Este primer contacto me permitió comprender las estructuras fundamentales de los lenguajes de programación. Luego, me adentré en el mundo del desarrollo web aprendiendo HTML, CSS y JavaScript 💻. Con el tiempo, profundicé en el uso de frameworks como Bootstrap, Angular y React ⚛️ para crear aplicaciones más dinámicas y eficientes. Además, expandí mi repertorio con otros lenguajes como Python 🐍 y C# que me han permitido fortalecer mis habilidades tanto en backend como en frontend. 💡
 Mi experiencia refleja mi capacidad para integrar soluciones robustas en backend con interfaces atractivas y fáciles de usar en el frontend. Siempre estoy en busca de nuevos retos que me permitan seguir creciendo y aprendiendo. 🚀
 
 
-📚 #### Estudios
+## 📚 **Estudios**
 Estudié en la Unidad Educativa "Pedro Fermin Cevallos" 🏫 y actualmente estoy culminando el séptimo semestre de la carrera de Ingeniería en Software en la Universidad Técnica de Ambato 🎓.
 
-💼 #### Experiencia
+## 💼 **Experiencia**
 Durante mis prácticas preprofesionales, desarrollé una plataforma educativa similar a Moodle 🎓, diseñada para la gestión y administración de cursos en línea. La plataforma permite asignar tareas, realizar evaluaciones y gestionar todo el proceso educativo a través de distintos roles de usuario. La aplicación web fue implementada en C# 💻 y utiliza una base de datos en SQL Server 🗃️.
 
-🎨 #### Hobbies & Pasatiempos
+## 🎨 **Hobbies & Pasatiempos**
 
 Fuera del desarrollo de software, tengo varios intereses que me permiten liberar mi creatividad y disfrutar de momentos de ocio:
 
-✂️ Papercraft: Disfruto creando modelos de papercraft, donde la precisión y la paciencia se combinan para dar vida a increíbles figuras tridimensionales.
-🎮 Videojuegos: Soy un apasionado de los videojuegos 🎮, los cuales no solo disfruto como entretenimiento, sino que también me inspiran en mi trabajo, especialmente en el diseño y desarrollo de interfaces.
-🖥️ Modelado 3D: Me gusta explorar el mundo del modelado 3D, creando y dando forma a objetos y personajes en el espacio digital.
-🎬 Cine: El cine es una de mis grandes pasiones 🍿. Disfruto tanto de los clásicos como de las últimas películas, y siempre estoy buscando nuevas perspectivas y enfoques cinematográficos.
+- **Papercraft** ✂️: Disfruto creando modelos de papercraft, donde la precisión y la paciencia se combinan para dar vida a increíbles figuras tridimensionales.
+- **Videojuegos** 🎮: Soy un apasionado de los videojuegos 🎮, los cuales no solo disfruto como entretenimiento, sino que también me inspiran en mi trabajo, especialmente en el diseño y desarrollo de interfaces.
+- **Modelado 3D** 🖥️: Me gusta explorar el mundo del modelado 3D, creando y dando forma a objetos y personajes en el espacio digital.
+- **Cine** 🎬: El cine es una de mis grandes pasiones 🍿. Disfruto tanto de los clásicos como de las últimas películas, y siempre estoy buscando nuevas perspectivas y enfoques cinematográficos.
 Estos hobbies no solo me permiten desconectar, sino que también me ayudan a mejorar mi creatividad y mis habilidades técnicas en diversas áreas. 🌟
 
 
@@ -49,13 +50,13 @@ Estos hobbies no solo me permiten desconectar, sino que también me ayudan a mej
 
 
 
-
-#### Tecnologias utilizadas:
+## 🛠️ **Tecnologías y Herramientas**
+### **Tecnologias utilizadas**
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
-#### IDE
+### **IDE**
 ![image](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![image](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -63,29 +64,29 @@ Estos hobbies no solo me permiten desconectar, sino que también me ayudan a mej
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-#### Bases de datos
+### **Bases de datos**
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Lenguajes de programación 
+### **Lenguajes de programación**
 ![image](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### Frameworks
+### **Frameworks**
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![image](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
-#### Librerías y herramientas de diseño
+### **Librerías y herramientas de diseño**
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Herramientas de gestión
+### **Herramientas de gestión**
 ![image](https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black)
 ![image](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
@@ -93,7 +94,7 @@ Estos hobbies no solo me permiten desconectar, sino que también me ayudan a mej
 
 
 
-#### Estadisticas
+## 📊 **Estadísticas de GitHub**
 
 <table>
 <tr>
