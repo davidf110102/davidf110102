@@ -32,19 +32,19 @@ Estos hobbies no solo me permiten desconectar, sino que también me ayudan a mej
 - 📊 **[Sistema Registros](https://github.com/Eduardlink/SistemaRegistros)**  
   Aplicación de control de asistencia para registrar ingresos y salidas de docentes, con generación de reportes personalizados y funcionalidades completas de CRUD.
 
-- 🏫 **[GestiónTech](https://github.com/tuusuario/GestionTech)**  
+- 🏫 **[GestiónTech](https://github.com/Axel-Vargas/Gestion_de_Inventarios)**  
   Plataforma para la administración de inventarios tecnológicos e inmuebles en la Universidad Técnica de Ambato, con seguimiento detallado de bienes.
 
-- 🛒 **[ItutiShop](https://github.com/tuusuario/ItutiShop)**  
+- 🛒 **[ItutiShop](https://github.com/davidf110102/ITutiShop)**  
   Sistema de comercio electrónico enfocado en productos de consumo diario, con opciones de pago en línea mediante tarjetas, PayPal y gestión administrativa.
 
-- 🎬 **[Pantalla Crítica](https://github.com/tuusuario/PantallaCritica)**  
+- 🎬 **[Pantalla Crítica](https://github.com/davidf110102/Pantalla-Critica)**  
   Sitio web para reseñas de películas y series, con una base de datos integrada que presenta información detallada y relevante para los usuarios.
 
-- 🍽️ **[Reserva Restaurantes](https://github.com/tuusuario/ReservaRestaurantes)**  
+- 🍽️ **[Reserva Restaurantes](https://github.com/davidf110102/Reserva-Restaurantes)**  
   Página web para realizar reservas en restaurantes, destacando un diseño atractivo y completamente responsivo, con funcionalidades básicas.
 
-- 💬 **[Sistema de Chat Web](https://github.com/tuusuario/SistemaChatWeb)**  
+- 💬 **[Sistema de Chat Web](https://github.com/ChristianCLop/Chat-Organizacional)**  
   Aplicación de chat web que permite la comunicación en tiempo real entre los miembros de una organización, con divisiones por departamentos.
 
 
@@ -103,11 +103,6 @@ Estos hobbies no solo me permiten desconectar, sino que también me ayudan a mej
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidf110102&layout=donut&theme=gruvbox" alt="Languages Pie Chart" />
     </a>
   </td>
-  <td>
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=davidf110102&theme=highcontrast&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-    </a>
-  </td>
 </tr>
 <tr>
   <td colspan="2">
@@ -119,16 +114,6 @@ Estos hobbies no solo me permiten desconectar, sino que también me ayudan a mej
 <tr>
   <td>
     <img src="https://komarev.com/ghpvc/?username=davidf110102&style=for-the-badge" alt="Profile Views" />
-  </td>
-  <td>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=davidf110102&theme=react-dark" alt="GitHub Activity Graph" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <img src="https://github.com/davidf110102/davidf110102/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
   </td>
 </tr>
 <tr>
