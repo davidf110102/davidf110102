@@ -4,6 +4,7 @@
 Soy desarrollador de software 👨‍💻 y estudiante de Ingeniería en Software en la Universidad Técnica de Ambato 🎓. Me apasiona crear soluciones tecnológicas eficientes y funcionales, combinando mis conocimientos técnicos con mi amor por la innovación. 🚀
 
 Mi camino en el desarrollo de software comenzó cuando ingresé a la universidad, donde inicié con programación en Java ☕. Este primer contacto me permitió comprender las estructuras fundamentales de los lenguajes de programación. Luego, me adentré en el mundo del desarrollo web aprendiendo HTML, CSS y JavaScript 💻. Con el tiempo, profundicé en el uso de frameworks como Bootstrap, Angular y React ⚛️ para crear aplicaciones más dinámicas y eficientes. Además, expandí mi repertorio con otros lenguajes como Python 🐍 y C# que me han permitido fortalecer mis habilidades tanto en backend como en frontend. 💡
+
 Mi experiencia refleja mi capacidad para integrar soluciones robustas en backend con interfaces atractivas y fáciles de usar en el frontend. Siempre estoy en busca de nuevos retos que me permitan seguir creciendo y aprendiendo. 🚀
 
 
@@ -21,6 +22,7 @@ Fuera del desarrollo de software, tengo varios intereses que me permiten liberar
 - **Videojuegos** 🎮: Soy un apasionado de los videojuegos 🎮, los cuales no solo disfruto como entretenimiento, sino que también me inspiran en mi trabajo, especialmente en el diseño y desarrollo de interfaces.
 - **Modelado 3D** 🖥️: Me gusta explorar el mundo del modelado 3D, creando y dando forma a objetos y personajes en el espacio digital.
 - **Cine** 🎬: El cine es una de mis grandes pasiones 🍿. Disfruto tanto de los clásicos como de las últimas películas, y siempre estoy buscando nuevas perspectivas y enfoques cinematográficos.
+
 Estos hobbies no solo me permiten desconectar, sino que también me ayudan a mejorar mi creatividad y mis habilidades técnicas en diversas áreas. 🌟
 
 
